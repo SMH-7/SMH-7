@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SyedMuaz
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently coding in Swift
 - 💞️ I’m looking to collaborate on Swift 6.0
 - 📫 How to reach me Error 404
 
