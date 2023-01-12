@@ -1,5 +1,5 @@
 <h1 align="center">Hellooo 👋, I'm Muaz</h1>
-<h3 align="center">A passionate iOS Dev from Pakistan</h3>
+<h3 align="center">A passionate iOS Dev from Ireland</h3>
 
 - Reach me via **syedmuazhassan@gmail.com**
 
