@@ -2,7 +2,9 @@
 <h3 align="center">A passionate programmer from Ireland</h3>
 
 * Reach me via **syedmuazhassan@gmail.com**
+* Portfolio preview: https://smh-7.github.io/portfolio/
 * [Check out my App - Use "MUAZGIT" to get Pro features for free!](https://apps.apple.com/app/collage-maker-collage-hub/id1591958696)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
